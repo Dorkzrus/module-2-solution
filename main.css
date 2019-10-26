@@ -11,7 +11,8 @@ h1 {
 }
 
 body {
-background-color: #e26e22
+       background-color:#beige;
+
 }
 
 p {
@@ -30,7 +31,7 @@ p {
 
 section {
 	border:	1px solid black;
-	background-color: #e0e0e0;
+	background-color: #00FF99;
 	width: 100%;
 	height: 200px;
 	font-family: Helvetica;
